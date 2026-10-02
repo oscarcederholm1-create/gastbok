@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Oscar",
+        "Email": "oscar.cederholm1@skola.taby.se",
+        "Comment": "Mitt första inlägg",
+        "time": "2026-10-01 13:00:00"
+    },
+    {
+        "name": "Oscar Cederholm",
+        "email": "oscar.cederholm1@skola.taby.se",
+        "homepage": "",
+        "comment": "Mitt första inlägg",
+        "time": "2026-10-02 11:35:50"
+    },
+    {
+        "name": "Oscar Cederholm",
+        "email": "oscar.cedeholm1@skola.taby.se",
+        "homepage": "",
+        "comment": "hej",
+        "time": "2026-10-02 11:36:03"
+    }
+]
